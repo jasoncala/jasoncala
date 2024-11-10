@@ -7,10 +7,10 @@ I'm Jason, a new grad in CS & Biology from Ontario, Canada. I'm a software devel
 - Developing gamified health app 🏃🏻‍♂️
 
 ### 🕰️ Previously ...
-- Research in ML, Computer Vision & Neuroscience @[Vector Institute](https://vectorinstitute.ai/) 🧠
-- Finding software & AI solutions for Aquaculture @[ReelData AI](https://www.lauriercaseteam.ca/) 🐟
-- Leading Android Development @[SEEDA](https://www.seeda.ca/) 🚧
-- Investigating facial recognition and medical big data @[Glendor](https://glendor.com/) 👥
+- Research in ML, Computer Vision & Neuroscience @ [Vector Institute](https://vectorinstitute.ai/) 🧠
+- Finding software & AI solutions for Aquaculture @ [ReelData AI](https://www.lauriercaseteam.ca/) 🐟
+- Leading Android Development @ [SEEDA](https://www.seeda.ca/) 🚧
+- Investigating facial recognition and medical big data @ [Glendor](https://glendor.com/) 👥
 
 ### 📫 Find me on ...
 
