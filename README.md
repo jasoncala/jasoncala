@@ -3,7 +3,7 @@
 I'm Jason, a new grad in CS & Biology from Ontario, Canada. I'm a software developer, travel lover, and Chelsea FC fan.
 
 ### 🔭 Currently ...
-- Looking for NewGrad opportunities! 👀
+- Working as a scientific SWE @ ProtoXRD ! 👀
 - Developing gamified health app 🏃🏻‍♂️
 
 ### 🕰️ Previously ...
